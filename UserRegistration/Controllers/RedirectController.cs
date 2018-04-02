@@ -16,6 +16,7 @@ namespace UserRegistration.Controllers
 
         //Get All EMPs
         // DO later - Add all methods
+        // Add All Controllers 
         public ActionResult GetAll()
         {
             return View();
